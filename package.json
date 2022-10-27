@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "three": "^0.143.0",
+    "three.meshline": "^1.4.0"
+  },
+
+  "":{
+    "type": "module"
+  }
+  
+}
